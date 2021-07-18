@@ -51,7 +51,7 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 Arduino是一款便捷灵活、方便上手的开源电子原型平台。包含硬件（各种型号的Arduino板）和软件（ArduinoIDE）。
 
 ## 代码示例：流水灯
-```C++
+```cpp
 int i=13;
 void setup()       
 {
